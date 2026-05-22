@@ -4,7 +4,7 @@ A production-grade Retrieval-Augmented Generation (RAG) benchmarking framework d
 
 ## Features
 
-- **Chunking Benchmark**: Test 28+ chunking strategies (Fixed, Semantic, Recursive, Sentence-based, Sliding Window) against a benchmark dataset.
+- **Chunking Benchmark**: Test 27 chunking strategies (Fixed, Semantic, Recursive, Sentence-based, Sliding Window) against a benchmark dataset.
 - **Embedding Benchmark**: Evaluate dense embedding models (like BGE, E5, MiniLM) for retrieval quality, testing Recall@K, MRR, NDCG, throughput, and memory footprint.
 - **Retrieval Benchmark**: Compare diverse search strategies including Exact Cosine, FAISS Flat (L2 Normalized IP), FAISS IVF, FAISS HNSW, BM25 (Sparse), and a Hybrid fusion model.
 - **Streamlit Dashboard**: A fully featured 3-tab dashboard for visualizing metrics and leaderboard comparisons natively.
