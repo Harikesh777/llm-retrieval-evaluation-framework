@@ -1,0 +1,282 @@
+[
+  {
+    "query": "Who is the original architect behind the Python programming language?",
+    "relevant_chunks": [
+      "Python is a high-level programming language created by Guido van Rossum and first released in 1991."
+    ],
+    "source": "doc_01_python.pdf"
+  },
+  {
+    "query": "In what year was the Python programming language initially made available to the public?",
+    "relevant_chunks": [
+      "Python is a high-level programming language created by Guido van Rossum and first released in 1991."
+    ],
+    "source": "doc_01_python.pdf"
+  },
+  {
+    "query": "What is the exact velocity of electromagnetic radiation in a perfect vacuum?",
+    "relevant_chunks": [
+      "The speed of light in a vacuum is exactly 299,792,458 meters per second."
+    ],
+    "source": "doc_02_light.pdf"
+  },
+  {
+    "query": "At how many meters per second does light travel when measured in an empty space?",
+    "relevant_chunks": [
+      "The speed of light in a vacuum is exactly 299,792,458 meters per second."
+    ],
+    "source": "doc_02_light.pdf"
+  },
+  {
+    "query": "Which specific American space mission successfully placed astronauts on the lunar surface for the first time?",
+    "relevant_chunks": [
+      "Apollo 11 was the historic American spaceflight that first landed humans on the Moon on July 20, 1969."
+    ],
+    "source": "doc_03_apollo.pdf"
+  },
+  {
+    "query": "On what exact date did humanity first step foot on the moon?",
+    "relevant_chunks": [
+      "Apollo 11 was the historic American spaceflight that first landed humans on the Moon on July 20, 1969."
+    ],
+    "source": "doc_03_apollo.pdf"
+  },
+  {
+    "query": "Which cellular structures are widely recognized as the primary energy generators for the cell?",
+    "relevant_chunks": [
+      "The mitochondria are membrane-bound cell organelles widely known as the powerhouse of the cell."
+    ],
+    "source": "doc_04_biology.pdf"
+  },
+  {
+    "query": "What is the biological definition or nickname commonly associated with mitochondria?",
+    "relevant_chunks": [
+      "The mitochondria are membrane-bound cell organelles widely known as the powerhouse of the cell."
+    ],
+    "source": "doc_04_biology.pdf"
+  },
+  {
+    "query": "Which famous wrought-iron structure is located on the Champ de Mars?",
+    "relevant_chunks": [
+      "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, completed in 1889."
+    ],
+    "source": "doc_05_paris.pdf"
+  },
+  {
+    "query": "In what year did construction conclude on the Eiffel Tower in Paris?",
+    "relevant_chunks": [
+      "The Eiffel Tower is a wrought-iron lattice tower located on the Champ de Mars in Paris, completed in 1889."
+    ],
+    "source": "doc_05_paris.pdf"
+  },
+  {
+    "query": "What is the specific atomic composition of a single water molecule?",
+    "relevant_chunks": [
+      "Water is a vital chemical substance composed of two hydrogen atoms covalently bonded to one oxygen atom (H2O)."
+    ],
+    "source": "doc_06_water.pdf"
+  },
+  {
+    "query": "Which vital substance relies on a covalent bond between two hydrogen atoms and one oxygen atom?",
+    "relevant_chunks": [
+      "Water is a vital chemical substance composed of two hydrogen atoms covalently bonded to one oxygen atom (H2O)."
+    ],
+    "source": "doc_06_water.pdf"
+  },
+  {
+    "query": "What monumental defense structure was erected along the historical northern boundaries of ancient Chinese states?",
+    "relevant_chunks": [
+      "The Great Wall of China is a massive series of fortifications built across the historical northern borders of ancient Chinese states."
+    ],
+    "source": "doc_07_china.pdf"
+  },
+  {
+    "query": "For what geographical purpose was the Great Wall of China originally constructed?",
+    "relevant_chunks": [
+      "The Great Wall of China is a massive series of fortifications built across the historical northern borders of ancient Chinese states."
+    ],
+    "source": "doc_07_china.pdf"
+  },
+  {
+    "query": "Which specific standard defines the rules and specifications that JavaScript must adhere to?",
+    "relevant_chunks": [
+      "JavaScript is a versatile, just-in-time compiled programming language that conforms to the ECMAScript standard."
+    ],
+    "source": "doc_08_javascript.pdf"
+  },
+  {
+    "query": "How does the text describe the compilation behavior and standardization of JavaScript?",
+    "relevant_chunks": [
+      "JavaScript is a versatile, just-in-time compiled programming language that conforms to the ECMAScript standard."
+    ],
+    "source": "doc_08_javascript.pdf"
+  },
+  {
+    "query": "Which renowned scientist is credited with formulating the theory of relativity?",
+    "relevant_chunks": [
+      "Albert Einstein developed the theory of relativity, which remains one of the two foundational pillars of modern physics."
+    ],
+    "source": "doc_09_physics.pdf"
+  },
+  {
+    "query": "What is considered one of the two foundational pillars of modern theoretical physics?",
+    "relevant_chunks": [
+      "Albert Einstein developed the theory of relativity, which remains one of the two foundational pillars of modern physics."
+    ],
+    "source": "doc_09_physics.pdf"
+  },
+  {
+    "query": "What is the name of the deepest underwater trench currently known on the planet?",
+    "relevant_chunks": [
+      "The Mariana Trench is the deepest oceanic trench on Earth, located in the western Pacific Ocean."
+    ],
+    "source": "doc_10_ocean.pdf"
+  },
+  {
+    "query": "In which major body of water can the Mariana Trench be found?",
+    "relevant_chunks": [
+      "The Mariana Trench is the deepest oceanic trench on Earth, located in the western Pacific Ocean."
+    ],
+    "source": "doc_10_ocean.pdf"
+  },
+  {
+    "query": "What astronomical phenomenon features a gravitational pull so intense that electromagnetic radiation cannot escape?",
+    "relevant_chunks": [
+      "KEY FACT: A black hole is a region of spacetime where the gravitational pull is so intense that nothing, not even light, can escape it."
+    ],
+    "source": "doc_11_space.pdf"
+  },
+  {
+    "query": "How is a black hole defined in terms of its effect on nearby light and spacetime?",
+    "relevant_chunks": [
+      "KEY FACT: A black hole is a region of spacetime where the gravitational pull is so intense that nothing, not even light, can escape it."
+    ],
+    "source": "doc_11_space.pdf"
+  },
+  {
+    "query": "Who is widely acknowledged by critics as the most preeminent writer in the history of the English language?",
+    "relevant_chunks": [
+      "KEY FACT: William Shakespeare was a renowned English playwright, poet, and actor, widely regarded as the greatest writer in the English language."
+    ],
+    "source": "doc_12_literature.pdf"
+  },
+  {
+    "query": "What were the primary artistic professions of William Shakespeare?",
+    "relevant_chunks": [
+      "KEY FACT: William Shakespeare was a renowned English playwright, poet, and actor, widely regarded as the greatest writer in the English language."
+    ],
+    "source": "doc_12_literature.pdf"
+  },
+  {
+    "query": "Which specific waterway holds the global record for the highest volume of water discharged?",
+    "relevant_chunks": [
+      "KEY FACT: The Amazon River in South America is the largest river in the world by discharge volume of water."
+    ],
+    "source": "doc_13_geography.pdf"
+  },
+  {
+    "query": "On which continent is the river with the world's largest water discharge volume located?",
+    "relevant_chunks": [
+      "KEY FACT: The Amazon River in South America is the largest river in the world by discharge volume of water."
+    ],
+    "source": "doc_13_geography.pdf"
+  },
+  {
+    "query": "What is the scientific term for the geometric shape formed by coiling polynucleotide chains in genetics?",
+    "relevant_chunks": [
+      "KEY FACT: DNA (deoxyribonucleic acid) is a molecule composed of two polynucleotide chains that coil around each other to form a double helix."
+    ],
+    "source": "doc_14_genetics.pdf"
+  },
+  {
+    "query": "What does the acronym DNA stand for, and what is its structural composition?",
+    "relevant_chunks": [
+      "KEY FACT: DNA (deoxyribonucleic acid) is a molecule composed of two polynucleotide chains that coil around each other to form a double helix."
+    ],
+    "source": "doc_14_genetics.pdf"
+  },
+  {
+    "query": "At standard atmospheric pressure, what is the temperature threshold required to turn fresh water into ice?",
+    "relevant_chunks": [
+      "KEY FACT: The freezing point of fresh water is 0 degrees Celsius (or 32 degrees Fahrenheit) at standard atmospheric pressure."
+    ],
+    "source": "doc_15_chemistry.pdf"
+  },
+  {
+    "query": "What is the freezing point of fresh water when measured on the Fahrenheit scale?",
+    "relevant_chunks": [
+      "KEY FACT: The freezing point of fresh water is 0 degrees Celsius (or 32 degrees Fahrenheit) at standard atmospheric pressure."
+    ],
+    "source": "doc_15_chemistry.pdf"
+  },
+  {
+    "query": "Which geological feature holds the title for the highest elevation above sea level on Earth?",
+    "relevant_chunks": [
+      "KEY FACT: Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas."
+    ],
+    "source": "doc_16_mountains.pdf"
+  },
+  {
+    "query": "In which specific sub-range of the Himalayas is Earth's tallest mountain situated?",
+    "relevant_chunks": [
+      "KEY FACT: Mount Everest is Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas."
+    ],
+    "source": "doc_16_mountains.pdf"
+  },
+  {
+    "query": "Who is historically credited with the invention of the acoustic stringed instrument we know today as the piano?",
+    "relevant_chunks": [
+      "KEY FACT: The piano is an acoustic, stringed musical instrument invented in Italy by Bartolomeo Cristofori around the year 1700."
+    ],
+    "source": "doc_17_music.pdf"
+  },
+  {
+    "query": "Around what century or year was the piano first developed in Italy?",
+    "relevant_chunks": [
+      "KEY FACT: The piano is an acoustic, stringed musical instrument invented in Italy by Bartolomeo Cristofori around the year 1700."
+    ],
+    "source": "doc_17_music.pdf"
+  },
+  {
+    "query": "Which physical component is often metaphorically described as the 'brain' of a computer system?",
+    "relevant_chunks": [
+      "KEY FACT: A Central Processing Unit (CPU) is the primary hardware component of a computer that acts as its brain."
+    ],
+    "source": "doc_18_hardware.pdf"
+  },
+  {
+    "query": "What does the acronym CPU stand for in the context of computer hardware?",
+    "relevant_chunks": [
+      "KEY FACT: A Central Processing Unit (CPU) is the primary hardware component of a computer that acts as its brain."
+    ],
+    "source": "doc_18_hardware.pdf"
+  },
+  {
+    "query": "Which historical Italian figure is responsible for creating the world-famous half-length portrait of a woman?",
+    "relevant_chunks": [
+      "KEY FACT: The Mona Lisa is a world-famous half-length portrait painting created by the Italian polymath Leonardo da Vinci."
+    ],
+    "source": "doc_19_art.pdf"
+  },
+  {
+    "query": "What is the name of the renowned painting authored by the polymath Leonardo da Vinci?",
+    "relevant_chunks": [
+      "KEY FACT: The Mona Lisa is a world-famous half-length portrait painting created by the Italian polymath Leonardo da Vinci."
+    ],
+    "source": "doc_19_art.pdf"
+  },
+  {
+    "query": "Through what biological mechanism do organisms synthesize chemical energy using sunlight?",
+    "relevant_chunks": [
+      "KEY FACT: Photosynthesis is the biological process used by plants and other organisms to convert light energy into chemical energy."
+    ],
+    "source": "doc_20_botany.pdf"
+  },
+  {
+    "query": "What is the primary objective of the photosynthesis process in plants?",
+    "relevant_chunks": [
+      "KEY FACT: Photosynthesis is the biological process used by plants and other organisms to convert light energy into chemical energy."
+    ],
+    "source": "doc_20_botany.pdf"
+  }
+]

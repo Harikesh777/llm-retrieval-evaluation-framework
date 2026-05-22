@@ -1,0 +1,15 @@
+sentence-transformers
+langchain
+langchain-community
+pypdf
+pymupdf
+pandas
+numpy
+faiss-cpu
+streamlit
+matplotlib
+tiktoken
+nltk
+scikit-learn
+rank-bm25
+psutil
